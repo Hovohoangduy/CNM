@@ -9,7 +9,7 @@ File: Homepage CSS
 */
 
 #hpage_featured{display:block; position:relative; width:960px; margin:0 auto; padding-bottom:20px;}
-#hpage_featured a{color:#510000; background-color:#E1D6CB;}
+#hpage_featured a{color:#510000; background-color:red;}
 #hpage_featured .intro{display:block; float:right; width:450px; line-height:1.6em;}
 #hpage_featured .intro h1, #hpage_featured .intro h2, #hpage_featured .intro h3, #hpage_featured .intro h4, #hpage_featured .intro h5, #hpage_featured .intro h6{background-color:#E1D6CB; margin:0 0 15px 0; padding:0 0 10px 0; border-bottom:1px solid #FFFFFF;}
 #hpage_featured .intro ul{margin:0; padding:0; list-style:none;}
